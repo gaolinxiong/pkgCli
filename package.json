@@ -1,0 +1,25 @@
+{
+  "name": "pkgcli",
+  "version": "1.0.0",
+  "description": "npm包开发脚手架",
+  "main": "index.js",
+  "bin": {
+    "pkgCli": "./bin/pkgCli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaolinxiong/pkgCli.git"
+  },
+  "keywords": [
+    "vue组件npm包开发脚手架"
+  ],
+  "author": "高林雄",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaolinxiong/pkgCli/issues"
+  },
+  "homepage": "https://github.com/gaolinxiong/pkgCli#readme"
+}
