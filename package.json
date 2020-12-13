@@ -1,5 +1,5 @@
 {
-  "name": "pkgcli",
+  "name": "boka-pkg-cli",
   "version": "1.0.0",
   "description": "npm包开发脚手架",
   "main": "index.js",
